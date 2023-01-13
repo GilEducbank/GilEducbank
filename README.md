@@ -2,4 +2,4 @@
 
 ## What I'm coding?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilEducbank)](https://github.com/GilEducbank)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilEducbank&show_icons=true&theme=transparent)
